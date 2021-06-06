@@ -1,0 +1,16 @@
+
+Health Check Execution time is  [2021-05-14 11:12]
+******************************* L1 HEALTH CHECK REPORT **********************************************
+
+******************************* EXECUTIVE SUMMARY DASHBOARD******************************************
+
+Health Check Report for <X ZONE> is :49.77%
+
+******************************* SERVER FARM DETAIL REPORT  **********************************************
+
+Health Check Report for  <X ZONE - A> is :  at  Health Percentage    0.0%   
+
+Health Check Report for  <X ZONE - B> is :  at  Health Percentage    0.0%   
+
+
+
