@@ -13,7 +13,7 @@ The idea of the health check is to provide visibility into possible layer 1 prob
 
 The script is written in python using acitoolkit to interact with APIC,and computation based on defined set of interfaces.
 
-**Output**: The results of the CLI commands are stored in simple .txt file: (L1_Output.txt, L1_Health.txt) ![Sample Output](Output_Snapshot001.png)(Output_Snapshot002.png)
+**Output**: The results of the CLI commands are stored in simple .txt file: (L1_Output.txt, L1_Health.txt) ![Sample Output](Output_Snapshot001.PNG)(Output_Snapshot002.png)
 
 ## Contacts
 *Oluyemi Oshunkoya (yemi_o@outlook.com)
