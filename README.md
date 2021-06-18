@@ -20,6 +20,7 @@ The script is written in python using acitoolkit to interact with APIC,and compu
 
 ## Solution Components
 *Python
+*
 
 ## Prerequisites 
 
@@ -27,7 +28,13 @@ ACITOOLKIT
 
 Python3.6 and above
 
-## Installation
+## Installation - Option 1
+
+1. 
+
+## Installation - Option 2
+
+1. 
 
 1. Clone this repository into your desired directory using the command:
 
