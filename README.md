@@ -28,13 +28,29 @@ ACITOOLKIT
 
 Python3.6 and above
 
-## Installation - Option 1
+## Step 1 - Downloading - Option A Using a Docker Image
 
-1. 
+1. Download the latest version of the ACITOOLKIT from docker hub
 
-## Installation - Option 2
+docker pull dockercisco/acitoolkit 
 
-1. 
+2. Run the docker image 
+
+docker run -it --name acitoolkit dockercisco/acitoolkit
+
+
+## Step 1 - Downloading - Option B Using GIT
+
+1. Clone the repository
+
+git clone https://github.com/datacenter/acitoolkit.git
+
+2. Install ACITOOLKIT library
+
+cd acitoolkit
+python setup.py install
+
+## Step 2 - Script Setup
 
 1. Clone this repository into your desired directory using the command:
 
@@ -44,20 +60,13 @@ git clone https://github.com/yzmar4real/ACI_LAYER1_CHECK.git
 
 cd ACI_LAYER1_CHECK
 
-3. Use the directory as a virtual environment for the project
+3. (Optional) Use the directory as a virtual environment for the project
 
 python3 -m venv . 
 
-4. Start the virtual environment and install the requirements for the project
+4. (Optional) Start the virtual environment and install the requirements for the project
 
 source bin/activate
-
-5. Setup ACITOOKIT and install the requirements below
-
-git clone https://github.com/datacenter/acitoolkit.git
-
-cd acitoolkit
-python setup.py install
 
 6. Execute the main script from console
 
