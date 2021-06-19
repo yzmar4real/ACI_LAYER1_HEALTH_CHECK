@@ -15,6 +15,8 @@ The script is written in python using acitoolkit to interact with APIC,and compu
 
 **Output**: The results of the CLI commands are stored in simple .txt file: (L1_Output.txt, L1_Health.txt) ![Sample Output](Output_Snapshot.JPG)
 
+You can also find the results of a full run in the text file (Result.txt)
+
 ## Contacts
 *Oluyemi Oshunkoya (yemi_o@outlook.com)
 
